@@ -4,6 +4,10 @@
     "description": "weapp shortcut to create a page template",
     "version": "0.0.1",
     "publisher": "leaf-yezi",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/leaf-yezi/weapp-quick-pages.git"
+    },
     "engines": {
         "vscode": "^1.30.0"
     },

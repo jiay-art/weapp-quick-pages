@@ -13,8 +13,8 @@ Visual Studio code extenstion that allows to quickly create  miniapp project pag
 
 ## Available Commands
 
-* Create miniapp project template page
-* Create thinkphp project class file
+* 创建小程序页面
+* 创建thinkphp控制器
 
 ## Features
 
