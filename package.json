@@ -3,6 +3,7 @@
     "displayName": "weapp-quick-pages",
     "description": "weapp shortcut to create a page template",
     "version": "0.0.1",
+    "publisher": "leaf-yezi",
     "engines": {
         "vscode": "^1.30.0"
     },
@@ -15,7 +16,8 @@
     ],
     "main": "./out/extension",
     "contributes": {
-        "commands": [{
+        "commands": [
+            {
                 "command": "extension.weappTemplate",
                 "title": "创建小程序页面",
                 "category": "Files"
@@ -27,7 +29,8 @@
             }
         ],
         "menus": {
-            "explorer/context": [{
+            "explorer/context": [
+                {
                     "when": "resourceFilename ==  pages",
                     "command": "extension.weappTemplate"
                 },

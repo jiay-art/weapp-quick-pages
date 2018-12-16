@@ -4,8 +4,12 @@ Visual Studio code extenstion that allows to quickly create  miniapp project pag
 
 
 ## Screenshots
-
+## caeate miniApp pages
+* Right-click to select the pages directory<br>
 ![preview](images/preview01.jpg)
+## caeate thinkphp project contrllor
+* Right-click to select the controller directory<br>
+![preview](images/preview02.jpg)
 
 ## Available Commands
 
